@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209777376021",
+    "project_id": "ru-mirea-zherebtsov-lesson7",
+    "storage_bucket": "ru-mirea-zherebtsov-lesson7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209777376021:android:8e4744678dc9c89ec9c71c",
+        "android_client_info": {
+          "package_name": "ru.mirea.zherebtsov.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyr3XJ6SRcffuIU6HQVpX2zDHh7dapGlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
